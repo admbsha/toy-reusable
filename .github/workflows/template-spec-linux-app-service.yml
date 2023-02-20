@@ -15,7 +15,7 @@ permissions:
 
 env:
   AZURE_RESOURCEGROUP_NAME: ToyReusable
-  AZURE_REGION: westus3
+  AZURE_REGION: westus
   TEMPLATE_SPEC_NAME: linux-app-service
   TEMPLATE_SPEC_FILE_PATH: template-specs/linux-app-service/main.bicep
 
